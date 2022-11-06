@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT vehicle (model+)>
+<!ELEMENT model (name, make, color, year)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT make (#PCDATA)>
+<!ELEMENT color (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ATTLIST model id CDATA #REQUIRED>

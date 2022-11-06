@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This XML document describes a list of sports cars -->
+<vehicle>
+   <model id="1">
+      <name>458 Italia</name>
+      <make>Ferrari</make>
+      <color>Red</color>
+      <year>2009</year>
+   </model>
+   <model id="2">
+      <name>Huracan</name>
+      <make>Lamborghini</make>
+      <color>Orange</color>
+      <year>2014</year>
+   </model>
+   <model id="3">
+      <name>Mustang GT350R</name>
+      <make>Ford</make>
+      <color>Blue</color>
+      <year>2015</year>
+   </model>
+   <model id="4">
+      <name>Cooper JCW</name>
+      <make>Mini</make>
+      <color>Black</color>
+      <year>2020</year>
+   </model>
+</vehicle>
